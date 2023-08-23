@@ -3,7 +3,6 @@ C:\Users\aacor\OneDrive\Desktop\Codewars_Practice\KatasCodewars\KatasCodewars\bi
 C:\Users\aacor\OneDrive\Desktop\Codewars_Practice\KatasCodewars\KatasCodewars\bin\Debug\net7.0\KatasCodewars.runtimeconfig.json
 C:\Users\aacor\OneDrive\Desktop\Codewars_Practice\KatasCodewars\KatasCodewars\bin\Debug\net7.0\KatasCodewars.dll
 C:\Users\aacor\OneDrive\Desktop\Codewars_Practice\KatasCodewars\KatasCodewars\bin\Debug\net7.0\KatasCodewars.pdb
-C:\Users\aacor\OneDrive\Desktop\Codewars_Practice\KatasCodewars\KatasCodewars\obj\Debug\net7.0\KatasCodewars.csproj.AssemblyReference.cache
 C:\Users\aacor\OneDrive\Desktop\Codewars_Practice\KatasCodewars\KatasCodewars\obj\Debug\net7.0\KatasCodewars.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\aacor\OneDrive\Desktop\Codewars_Practice\KatasCodewars\KatasCodewars\obj\Debug\net7.0\KatasCodewars.AssemblyInfoInputs.cache
 C:\Users\aacor\OneDrive\Desktop\Codewars_Practice\KatasCodewars\KatasCodewars\obj\Debug\net7.0\KatasCodewars.AssemblyInfo.cs
